@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on NextJs , Docker<br>👯 I’m looking to collaborate on Full Stack Projects<br>🌱 I’m currently learning ML<br>💬 Ask me about ReactJs, Aws , OCI , Azure<br>
+🔭 I’m currently working on:- NextJs , Docker<br>👯 I’m looking to collaborate on:- Full Stack Projects<br>🌱 I’m currently learning:- ML<br>💬 Ask me about:- ReactJs, Aws , OCI , Azure<br>
 
 
 ## 🌐 Socials:
